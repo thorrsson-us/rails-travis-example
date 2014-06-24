@@ -8,6 +8,8 @@ This is Lab 1 for Velocity 2014 Tutorial: Battle-tested Code without the Battle.
 ## Goals of this Lab
 * Implement a network check using nmap and a Heartbleed check using SSLyze.
 
+#
+
 # LAB 1
 * In your forked repo, read the repo's Travis Config `.travis.yml`
 * In Travis CI, make sure the forked repo is set to 'on'
